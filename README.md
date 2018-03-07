@@ -4,4 +4,4 @@
 
 ## Alunos
 
-- [Aluno1](https://github.com/aluno1)
+- [Luiz Guilherme Devide](https://github.com/luizdevide)
