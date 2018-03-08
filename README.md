@@ -17,3 +17,4 @@
 - [Roberto guimaraes junior](https://github.com/robertoutfpr)
 - [Tiago](https://github.com/nefestor)
 - [Vitor Stelmastchuk](https://github.com/stelmastchuk)
+- [Rafael Santos](https://github.com/rafaelnsantos)
