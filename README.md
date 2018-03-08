@@ -14,5 +14,6 @@
 - [Josiel Faleiros Alves](https://github.com/JosielFaleiros)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Renilson Picinin](https://github.com/renilsonpicinin)
+- [Roberto guimaraes junior](https://github.com/robertoutfpr)
 - [Tiago](https://github.com/nefestor)
 - [Vitor Stelmastchuk](https://github.com/stelmastchuk)
