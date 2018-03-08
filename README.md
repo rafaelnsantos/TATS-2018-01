@@ -9,4 +9,5 @@
 - [Gabriel de Carli](https://github.com/GabrieldeCarli)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Renilson Picinin] (https://github.com/renilsonpicinin)
+- [Tiago](https://github.com/nefestor)
 
