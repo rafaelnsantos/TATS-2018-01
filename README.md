@@ -5,3 +5,4 @@
 ## Alunos
 
 - [Aluno1](https://github.com/aluno1)
+- [LucasJacinto](https://github.com/lucasjcs)
