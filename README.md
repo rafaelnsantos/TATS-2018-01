@@ -4,14 +4,13 @@
 
 ## Alunos
 
-- [Aluno1](https://github.com/aluno1)
 - [Anderson Soares](https://github.com/AndersonMSoares)
 - [Andressa-Leite](https://github.com/andressalh)
 - [Daniel Nascimento](https://github.com/DNascto/)
 - [Fabricio Jhonata Sousa de Oliveira](https://github.com/fabriciojso)
 - [Gabriel de Carli](https://github.com/GabrieldeCarli)
 - [lua Ivo Machado](https://github.com/luaivo14)
-- [LucasJacinto](https://github.com/lucasjcs)
+- [Lucas Jacinto](https://github.com/lucasjcs)
 - [Josiel Faleiros Alves](https://github.com/JosielFaleiros)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Renilson Picinin](https://github.com/renilsonpicinin)
