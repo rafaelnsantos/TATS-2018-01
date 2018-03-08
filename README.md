@@ -8,3 +8,5 @@
 - [Fabricio Jhonata Sousa de Oliveira](https://github.com/fabriciojso)
 - [Gabriel de Carli](https://github.com/GabrieldeCarli)
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
+- [Renilson Picinin] (https://github.com/renilsonpicinin)
+
