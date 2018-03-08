@@ -5,3 +5,4 @@
 ## Alunos
 
 - [Aluno1](https://github.com/aluno1)
+- [Fabricio Jhonata Sousa de Oliveira](https://github.com/fabriciojso)
