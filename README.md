@@ -10,4 +10,4 @@
 - [Luiz Guilherme Devide](https://github.com/luizdevide)
 - [Renilson Picinin] (https://github.com/renilsonpicinin)
 - [Tiago](https://github.com/nefestor)
-
+- [Vitor Stelmastchuk](https://github.com/stelmastchuk)
