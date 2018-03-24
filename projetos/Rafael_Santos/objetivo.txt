@@ -1,1 +1,11 @@
-TODO
+Ideia 1: 
+Servidor para gravar progresso de jogos do Unity3D, usando Facebook como Login. 
+https://github.com/rafaelnsantos/unity-cloudsave
+https://travis-ci.org/rafaelnsantos/unity-cloudsave
+https://sonarcloud.io/dashboard?id=memory-cloud
+
+Ideia 2:
+Site que utiliza api do servidor acima para mostrar Leaderboards dos jogos.
+https://github.com/memory-cloud/leaderboard-react
+https://travis-ci.org/memory-cloud/leaderboard-react
+https://sonarcloud.io/dashboard?id=leaderboard
